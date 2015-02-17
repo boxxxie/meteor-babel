@@ -17,3 +17,4 @@ Plugin.registerSourceHandler('es6.js', handler);
 Plugin.registerSourceHandler('es6', handler);
 Plugin.registerSourceHandler('es', handler);
 Plugin.registerSourceHandler('jsx', handler);
+Plugin.registerSourceHandler('js', handler);

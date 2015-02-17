@@ -12,4 +12,4 @@ meteor add grigio:babel
  
 ## Usage
  
-accepted file extension es6.js, es6, es, jsx
+accepted file extension es6.js, es6, es, jsx, js
